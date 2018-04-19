@@ -3,9 +3,10 @@
     <modelVersion>4.0.0</modelVersion>
     
     <groupId>com.example</groupId>
-	<artifactId>registrationy</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<artifactId>auth</artifactId>
+    <name>auth</name>
+    <description>auth</description>
+    <packaging>war</packaging>
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
